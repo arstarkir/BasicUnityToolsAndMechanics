@@ -361,6 +361,7 @@
 "Assets/Scr/Movement/CamHolder.cs"
 "Assets/Scr/Movement/MouseLook.cs"
 "Assets/Scr/Movement/Player_movement.cs"
+"Assets/Scr/Tools/ItemTool.cs"
 -langversion:9.0
 
 /deterministic

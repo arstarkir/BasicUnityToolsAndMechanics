@@ -61,6 +61,7 @@
     <Compile Include="Assets\Scr\Looting\Looting.cs" />
     <Compile Include="Assets\Scr\Movement\MouseLook.cs" />
     <Compile Include="Assets\Scr\Inventory\Inventory.cs" />
+    <Compile Include="Assets\Scr\Tools\ItemTool.cs" />
     <Compile Include="Assets\Scr\Movement\Player_movement.cs" />
     <Compile Include="Assets\Scr\Movement\CamHolder.cs" />
     <Compile Include="Assets\Scr\Inventory\IdSystem.cs" />
